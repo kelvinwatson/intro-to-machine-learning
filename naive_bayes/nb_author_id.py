@@ -39,7 +39,6 @@ print "prediction time:", round(time()-t1, 3), "s"
 
 print "accuracy:", classifier.score(features_test, labels_test) #score classifier accuracy
 
-
 #########################################################
 
 
